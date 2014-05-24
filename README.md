@@ -3,8 +3,11 @@ basecamp-api-cakephp
 
 Basecamp api usage in cakephp....
 0)Create your app on 37signals
+
 1)Place the basecamp class in Vendor/basecamp-php-api-master/Basecamp.Class.php
+
 2)Add your conumer secret and consumer key 
+
 
 Note :  The basecamp class in the repository is copied from somewhere else,It uses PHP OAuth for user authentication.
 Some servers dont run it by default.
